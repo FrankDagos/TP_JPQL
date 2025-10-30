@@ -25,7 +25,7 @@ El proyecto está configurado para ejecutarse con una base de datos H2 en memori
 
 1.  **Clonar el Repositorio:**
     ```bash
-    git clone [URL_DE_TU_REPOSITORIO]
+    git clone https://github.com/FrankDagos/TP_JPQL.git
     ```
 
 2.  **Abrir el Proyecto:**
